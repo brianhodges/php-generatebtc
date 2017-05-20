@@ -1,4 +1,4 @@
-# Generate Bitcoin Address w/ QR Codes (PHP)
+# Generate Bitcoin Addresses w/ QR Codes (PHP)
 Just a project more for myself to refer back to when working on future Bitcoin projects. Generates BTC addresses and their corresponding QR Codes.
 
 # Setup
