@@ -1,0 +1,8 @@
+{
+    "require": {
+        "bitwasp/bitcoin": "v0.0.33.1"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
